@@ -1,27 +1,19 @@
 # ballgame
-simple arcanoid like game in c++
+Simple arcanoid like game in c++
 
-to use put files in this hierarchy:
-## gamedata
-  levels.txt
-  ### img
-    ball.png
-  ### fonts
-    JosefinSans-Regular.ttf
-  ### levels
-    level1.txt
-    level2.txt
-    level3.txt
-    level4.txt
+##Description
+Goal of the game is to destroy all blocks in each of 4 levels using the ball.
+You have to bounce the ball with the racket preventing it from falling down.
+The speed of the ball is changing, you can influence it by changing the focus, so the ball will tend to speed up in X or Y direction.
+##How to play
+### H 
+Show/Hide HUD
+### P
+Pause game
+### Up arrow
+Changes focus
+### Left/Right arrows
+Moves racket
 
-
-
-instr:
-### h 
-show/hide HUD
-### p
-pause game
-### up arrow
-change focus (velocity will change more in x or y dir)
-### left/right
-move racket
+##License
+MIT
