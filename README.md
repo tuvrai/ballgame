@@ -17,9 +17,11 @@ to use put files in this hierarchy:
 
 
 instr:
-*destroy all blocks
-*h - show/hide HUD
-*p - pause game
-*up arrow - change focus (velocity will change more in x or y dir)
-*left/right - move racket
-*
+###h 
+show/hide HUD
+###p
+pause game
+###up arrow
+change focus (velocity will change more in x or y dir)
+###left/right
+move racket
