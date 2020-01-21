@@ -17,11 +17,11 @@ to use put files in this hierarchy:
 
 
 instr:
-###h 
+### h 
 show/hide HUD
-###p
+### p
 pause game
-###up arrow
+### up arrow
 change focus (velocity will change more in x or y dir)
-###left/right
+### left/right
 move racket
