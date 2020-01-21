@@ -2,13 +2,13 @@
 simple arcanoid like game in c++
 
 to use put files in this hierarchy:
-### gamedata
+## gamedata
   levels.txt
-  #### img
+  ### img
     ball.png
-  #### fonts
+  ### fonts
     JosefinSans-Regular.ttf
-  #### levels
+  ### levels
     level1.txt
     level2.txt
     level3.txt
