@@ -15,5 +15,5 @@ Changes focus
 #### Left/Right arrows
 Moves racket
 
-##License
+## License
 MIT
